@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanjay Singh</h1>
 <h3 align="center">A passionate Automation Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://verisoft.ai/wp-content/uploads/2022/05/programmer-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-57b96628d1311cc1e2d32f3bc152683e">
 
 - 🔭 I’m currently working on [ApiTesting](https://github.com/fta-sanjay/com.rest.Apitesting)
 
